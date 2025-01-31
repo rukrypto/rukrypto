@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael
+- 👋 Hi, I’m Rafael U.
 - 👀 I’m interested in ...Bitcoin, Monero, Privacy, Web3
 - 🌱 I’m currently learning ...Advanced Frontend Skills
 - 💞️ I’m looking to collaborate on ...OpenSource
